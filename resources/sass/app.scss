@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+
+.navbar-social {
+    background: #FFF;
+    -webkit-box-shadow: 0px 1px 1px -1px rgba(0,0,0,.20) !important;
+    box-shadow: 0px 1px 3px -1px rgba(0,0,0,.20) !important;
+}
